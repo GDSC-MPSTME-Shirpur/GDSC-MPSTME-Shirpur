@@ -2,7 +2,7 @@
 <img src="https://github.com/nupoorkhatri/GDSC-MPSTME-Shirpur/blob/main/GDSCLogo.png" alt="dsc-banner"><br>
 </p>
 
-### Welcome to Google Developer Student Club - MPSTME Shirpur
+## Welcome to Google Developer Student Club - MPSTME Shirpur
 
 
 This is the official github account of Google Developer Students Club of MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING - SHIRPUR
