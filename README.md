@@ -1,4 +1,4 @@
-<img src="https://github.com/nupoorkhatri/GDSC-MPSTME-Shirpur/blob/main/GDSCLogo.png" alt="dsc-banner"><br>
+<img src="https://github.com/nupoorkhatri/GDSC-MPSTME-Shirpur/blob/main/GDSCLogo.png" alt="dsc-banner" align="center"><br>
 
 ### Welcome to Google Developer Student Club - MPSTME Shirpur
 
